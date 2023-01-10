@@ -1,0 +1,22 @@
+D:\Visual Studio Repos\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.exe
+D:\Visual Studio Repos\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.deps.json
+D:\Visual Studio Repos\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.runtimeconfig.json
+D:\Visual Studio Repos\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.dll
+D:\Visual Studio Repos\Tic Tac Toe Game\bin\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.AssemblyReference.cache
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\App.g.cs
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game_MarkupCompile.cache
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game_MarkupCompile.lref
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.g.resources
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfoInputs.cache
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.AssemblyInfo.cs
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.dll
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\refint\Tic Tac Toe Game.dll
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.pdb
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game.genruntimeconfig.cache
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\ref\Tic Tac Toe Game.dll
+D:\Visual Studio Repos\Tic Tac Toe Game\obj\Debug\net6.0-windows\Tic Tac Toe Game_Content.g.cs
